@@ -22,3 +22,7 @@ ro.ril.ecclist=112,911,#911,*911
 #Operator values
 ro.cdma.home.operator.alpha=Sprint
 ro.cdma.home.operator.numeric=310120
+
+#RomDB
+ro.romdb.hash=49b10537eff2976ea49959fdfbd95753b198a58f1b38b1d6dfd6b04d0c2c3360
+ro.romdb.version=2
